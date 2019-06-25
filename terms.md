@@ -60,7 +60,7 @@ Your friend will have three months, from when they redeem your code, to use thei
 
 Referrals are intended for people you know. So please don't post your referral code publicly. We might limit how many people can redeem your code, and change your code, if we find it posted publicly.
 
-If you're using any other promotional code, the expiry date will depend on the promotion you're looking to benefit from. If you have any questions, including when the deadlines are, please chat to us and we’ll help.
+The expiry date of any discount will depend on the promotion you’re looking to benefit from. But no discount will last for more than 12 months from the date of redemption. If you have any questions, including when the deadlines are, please chat to us and we’ll help.
 
 Cuvva can't guarantee that our app will be available at all times, including due to problems with third party websites or your internet connectivity. Cuvva won't be responsible to you for any losses or inconvenience as a result of our app being unavailable.
 
